@@ -1,0 +1,10 @@
+Possible features for classification that can be used
+
+1. surgery
+4. rectal temp
+5. pulse
+11. pain
+12. peristalsis
+13. abdominal distension
+18. abdomen
+25. type of lesion
